@@ -1,0 +1,1 @@
+web: gunicorn firstprojectgogo.wsgi --log-file -
